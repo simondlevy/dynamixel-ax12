@@ -1,11 +1,3 @@
-# Real Ant
-
-![Assembled Ant](/images/angle.jpg)
-
-Resources for working with the Real Ant project minus the actual reinforcement
-learning. This repository consists of code that allows you to interact with any
-number of [Dynamixel AX-12A](https://www.robotis.us/dynamixel-ax-12a/) servos.
-
 ## Code Description
 
 ### `Ax12` Class

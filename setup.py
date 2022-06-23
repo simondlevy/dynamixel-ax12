@@ -14,7 +14,7 @@ setup(
     name='dynamixel_ax12',
     version='0.1',
     install_requires=['gym', 'numpy', 'Box2D', 'opencv-python'],
-    description='Gym environment for multicopters',
+    description='Python library for Dynamixel AX-12 servo',
     packages=['ax12'],
     author='Yosef Tamene, Simon D. Levy',
     author_email='simon.d.levy@gmail.com',

@@ -13,7 +13,7 @@ from setuptools import setup
 setup(
     name='dynamixel_ax12',
     version='0.1',
-    install_requires=['dynamixel-sdk'],
+    install_requires=['DynamixelSDK'],
     description='Python library for Dynamixel AX-12 servo',
     packages=['ax12'],
     author='Yosef Tamene, Simon D. Levy',
